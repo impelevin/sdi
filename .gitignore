@@ -1,2 +1,4 @@
 /.env
 .idea/
+/src/*
+docker-compose.yml
